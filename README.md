@@ -1,2 +1,9 @@
-# FallDetect-Webapp-Vue
-FallDetect-Webapp-Vue
+# falldetect_vue
+
+```
+npm install
+```
+
+```
+npm run serve
+```
